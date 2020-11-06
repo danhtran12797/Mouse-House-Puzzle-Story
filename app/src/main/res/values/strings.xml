@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blackjack Legends: 21 Online Multiplayer Casino</string>
+
+    <string name="id_banner">826f535483c94049817da322ef95769a</string>
+<!--    <string name="id_banner">b195f8dd8ded45fe847ad89ed1d016da</string>-->
+    <string name="id_interstitial">539a03854e9842289dd5a1a25022418a</string>
+</resources>
